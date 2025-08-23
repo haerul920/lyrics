@@ -1,13 +1,8 @@
-# 🚀 Nama Proyek
+# 🚀 Lyrics
 
-Deskripsi singkat tentang proyekmu. Misalnya:  
-> Proyek ini dibuat untuk belajar dasar-dasar pemrograman dan dokumentasi di GitHub.
+Lirik lagu dengan animasi ketikan sesuai timing, dm ig untuk req bro..
 
----
-
-## 📘 Contoh Kode
-
-### 🔹 Python
+### 🎬 Ours to Keep (Python)
 ```python
 import time
 import sys
@@ -82,3 +77,4 @@ speeds
 36
 
 time.sleep(0.4)
+```
