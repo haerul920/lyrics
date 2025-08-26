@@ -1,6 +1,6 @@
 # 🚀 Lyrics
 
-irik lagu dengan animasi ketikan sesuai timing, dm ig untuk req bro..
+Lirik lagu dengan animasi ketikan sesuai timing, dm ig untuk req bro..
 
 ### 🎬 Ours to Keep (Python)
 ```python
